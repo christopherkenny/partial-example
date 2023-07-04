@@ -1,0 +1,83 @@
+---
+title: "Example"
+format: 
+  pdf: 
+    toc: true
+    template-partials: 
+      - toc.tex
+author: 
+  - name: A Name
+date: last-modified
+---
+
+# Example
+
+Elit morbi lobortis duis placerat odio vehicula curabitur tincidunt urna volutpat mattis. Nam netus luctus, viverra feugiat iaculis malesuada nascetur? Est aenean euismod condimentum egestas, dignissim velit mi. Scelerisque molestie justo vel, sociis scelerisque eget: fringilla hendrerit vel venenatis volutpat.
+
+Ipsum nec augue habitant cubilia natoque gravida turpis per dui augue? Ante odio posuere; fermentum, fames tristique, aliquet gravida rhoncus leo! Nunc accumsan vehicula: posuere lacus libero cum magnis vel aliquam rutrum in elementum. Dictum porta fringilla iaculis dis felis: conubia aliquam congue molestie.
+
+Ipsum nec senectus id conubia – luctus varius ornare blandit fermentum. At nullam torquent habitasse, ut pulvinar ligula aliquet tincidunt integer rhoncus aenean? Mattis in conubia magna sed per quisque cum dictum. Dapibus vulputate euismod non – phasellus et.
+
+# Section A
+
+Elit morbi lobortis duis placerat odio vehicula curabitur tincidunt urna volutpat mattis. Nam netus luctus, viverra feugiat iaculis malesuada nascetur? Est aenean euismod condimentum egestas, dignissim velit mi. Scelerisque molestie justo vel, sociis scelerisque eget: fringilla hendrerit vel venenatis volutpat.
+
+Ipsum nec augue habitant cubilia natoque gravida turpis per dui augue? Ante odio posuere; fermentum, fames tristique, aliquet gravida rhoncus leo! Nunc accumsan vehicula: posuere lacus libero cum magnis vel aliquam rutrum in elementum. Dictum porta fringilla iaculis dis felis: conubia aliquam congue molestie.
+
+Ipsum nec senectus id conubia – luctus varius ornare blandit fermentum. At nullam torquent habitasse, ut pulvinar ligula aliquet tincidunt integer rhoncus aenean? Mattis in conubia magna sed per quisque cum dictum. Dapibus vulputate euismod non – phasellus et.
+
+## Subsection x
+
+Elit morbi lobortis duis placerat odio vehicula curabitur tincidunt urna volutpat mattis. Nam netus luctus, viverra feugiat iaculis malesuada nascetur? Est aenean euismod condimentum egestas, dignissim velit mi. Scelerisque molestie justo vel, sociis scelerisque eget: fringilla hendrerit vel venenatis volutpat.
+
+Ipsum nec augue habitant cubilia natoque gravida turpis per dui augue? Ante odio posuere; fermentum, fames tristique, aliquet gravida rhoncus leo! Nunc accumsan vehicula: posuere lacus libero cum magnis vel aliquam rutrum in elementum. Dictum porta fringilla iaculis dis felis: conubia aliquam congue molestie.
+
+Ipsum nec senectus id conubia – luctus varius ornare blandit fermentum. At nullam torquent habitasse, ut pulvinar ligula aliquet tincidunt integer rhoncus aenean? Mattis in conubia magna sed per quisque cum dictum. Dapibus vulputate euismod non – phasellus et.
+
+# Section A
+
+Elit morbi lobortis duis placerat odio vehicula curabitur tincidunt urna volutpat mattis. Nam netus luctus, viverra feugiat iaculis malesuada nascetur? Est aenean euismod condimentum egestas, dignissim velit mi. Scelerisque molestie justo vel, sociis scelerisque eget: fringilla hendrerit vel venenatis volutpat.
+
+Ipsum nec augue habitant cubilia natoque gravida turpis per dui augue? Ante odio posuere; fermentum, fames tristique, aliquet gravida rhoncus leo! Nunc accumsan vehicula: posuere lacus libero cum magnis vel aliquam rutrum in elementum. Dictum porta fringilla iaculis dis felis: conubia aliquam congue molestie.
+
+Ipsum nec senectus id conubia – luctus varius ornare blandit fermentum. At nullam torquent habitasse, ut pulvinar ligula aliquet tincidunt integer rhoncus aenean? Mattis in conubia magna sed per quisque cum dictum. Dapibus vulputate euismod non – phasellus et.
+
+## Subsection y
+
+Elit morbi lobortis duis placerat odio vehicula curabitur tincidunt urna volutpat mattis. Nam netus luctus, viverra feugiat iaculis malesuada nascetur? Est aenean euismod condimentum egestas, dignissim velit mi. Scelerisque molestie justo vel, sociis scelerisque eget: fringilla hendrerit vel venenatis volutpat.
+
+Ipsum nec augue habitant cubilia natoque gravida turpis per dui augue? Ante odio posuere; fermentum, fames tristique, aliquet gravida rhoncus leo! Nunc accumsan vehicula: posuere lacus libero cum magnis vel aliquam rutrum in elementum. Dictum porta fringilla iaculis dis felis: conubia aliquam congue molestie.
+
+Ipsum nec senectus id conubia – luctus varius ornare blandit fermentum. At nullam torquent habitasse, ut pulvinar ligula aliquet tincidunt integer rhoncus aenean? Mattis in conubia magna sed per quisque cum dictum. Dapibus vulputate euismod non – phasellus et.
+
+# Section C
+
+Elit morbi lobortis duis placerat odio vehicula curabitur tincidunt urna volutpat mattis. Nam netus luctus, viverra feugiat iaculis malesuada nascetur? Est aenean euismod condimentum egestas, dignissim velit mi. Scelerisque molestie justo vel, sociis scelerisque eget: fringilla hendrerit vel venenatis volutpat.
+
+Ipsum nec augue habitant cubilia natoque gravida turpis per dui augue? Ante odio posuere; fermentum, fames tristique, aliquet gravida rhoncus leo! Nunc accumsan vehicula: posuere lacus libero cum magnis vel aliquam rutrum in elementum. Dictum porta fringilla iaculis dis felis: conubia aliquam congue molestie.
+
+Ipsum nec senectus id conubia – luctus varius ornare blandit fermentum. At nullam torquent habitasse, ut pulvinar ligula aliquet tincidunt integer rhoncus aenean? Mattis in conubia magna sed per quisque cum dictum. Dapibus vulputate euismod non – phasellus et.
+
+## Subsection z
+
+Elit morbi lobortis duis placerat odio vehicula curabitur tincidunt urna volutpat mattis. Nam netus luctus, viverra feugiat iaculis malesuada nascetur? Est aenean euismod condimentum egestas, dignissim velit mi. Scelerisque molestie justo vel, sociis scelerisque eget: fringilla hendrerit vel venenatis volutpat.
+
+Ipsum nec augue habitant cubilia natoque gravida turpis per dui augue? Ante odio posuere; fermentum, fames tristique, aliquet gravida rhoncus leo! Nunc accumsan vehicula: posuere lacus libero cum magnis vel aliquam rutrum in elementum. Dictum porta fringilla iaculis dis felis: conubia aliquam congue molestie.
+
+Ipsum nec senectus id conubia – luctus varius ornare blandit fermentum. At nullam torquent habitasse, ut pulvinar ligula aliquet tincidunt integer rhoncus aenean? Mattis in conubia magna sed per quisque cum dictum. Dapibus vulputate euismod non – phasellus et.
+
+# Section D
+
+Elit morbi lobortis duis placerat odio vehicula curabitur tincidunt urna volutpat mattis. Nam netus luctus, viverra feugiat iaculis malesuada nascetur? Est aenean euismod condimentum egestas, dignissim velit mi. Scelerisque molestie justo vel, sociis scelerisque eget: fringilla hendrerit vel venenatis volutpat.
+
+Ipsum nec augue habitant cubilia natoque gravida turpis per dui augue? Ante odio posuere; fermentum, fames tristique, aliquet gravida rhoncus leo! Nunc accumsan vehicula: posuere lacus libero cum magnis vel aliquam rutrum in elementum. Dictum porta fringilla iaculis dis felis: conubia aliquam congue molestie.
+
+Ipsum nec senectus id conubia – luctus varius ornare blandit fermentum. At nullam torquent habitasse, ut pulvinar ligula aliquet tincidunt integer rhoncus aenean? Mattis in conubia magna sed per quisque cum dictum. Dapibus vulputate euismod non – phasellus et.
+
+## Subsection w
+
+Elit morbi lobortis duis placerat odio vehicula curabitur tincidunt urna volutpat mattis. Nam netus luctus, viverra feugiat iaculis malesuada nascetur? Est aenean euismod condimentum egestas, dignissim velit mi. Scelerisque molestie justo vel, sociis scelerisque eget: fringilla hendrerit vel venenatis volutpat.
+
+Ipsum nec augue habitant cubilia natoque gravida turpis per dui augue? Ante odio posuere; fermentum, fames tristique, aliquet gravida rhoncus leo! Nunc accumsan vehicula: posuere lacus libero cum magnis vel aliquam rutrum in elementum. Dictum porta fringilla iaculis dis felis: conubia aliquam congue molestie.
+
+Ipsum nec senectus id conubia – luctus varius ornare blandit fermentum. At nullam torquent habitasse, ut pulvinar ligula aliquet tincidunt integer rhoncus aenean? Mattis in conubia magna sed per quisque cum dictum. Dapibus vulputate euismod non – phasellus et.
